@@ -1,0 +1,2 @@
+Print('I am Rutika')
+Print('Hello everyone')
